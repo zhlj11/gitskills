@@ -3,3 +3,4 @@ Creating a new branch is quick and simple and amazy.
 Fix bug 101.
 Add one change.
 Add anotehr change.
+Add money here.
