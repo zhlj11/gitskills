@@ -1,4 +1,5 @@
 This is just a test on dev branch.
 Creating a new branch is quick and simple and amazy.
+Fix bug 101.
 Add one change.
-This is a good idea.
+Add anotehr change.
