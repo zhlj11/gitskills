@@ -4,3 +4,4 @@ Fix bug 101.
 Add one change.
 Add anotehr change.
 Add money here.
+Add new line.
